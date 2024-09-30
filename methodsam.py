@@ -4,7 +4,7 @@ def say_hello_to(name):
 
   Args:
       name: The name to greet.
-
+      
   Returns:
       A greeting message.
   """
